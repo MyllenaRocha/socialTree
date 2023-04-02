@@ -1,0 +1,50 @@
+.container {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1rem;
+
+}
+.circulo {
+    width: 13.31rem;
+    height: 13.31rem;
+    border-radius: 9rem;
+    border: 3px solid #BB99DD;
+}
+.avatar {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 9rem;
+
+}
+
+.container h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    
+    color: #BB99DD;
+}
+#wp, #fb, #sp, #em{
+    display: block;
+    width: 20rem;
+    height: 3rem;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 3rem;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+}
+#twitter, #twitch, #instagram, #linkedin, #github {
+    padding: 0.5rem;
+}
